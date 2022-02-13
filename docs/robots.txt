@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://www.dinesh24murali.github.io
+Host: https://www.codeknight.in
 
 # Sitemaps
-Sitemap: https://www.dinesh24murali.github.io/sitemap.xml
+Sitemap: https://www.codeknight.in/sitemap.xml

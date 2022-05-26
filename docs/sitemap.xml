@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://www.codeknight.in</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.934Z</lastmod></url>
-<url><loc>https://www.codeknight.in/nodejs/introduction_to_prisma</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
-<url><loc>https://www.codeknight.in/react</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
-<url><loc>https://www.codeknight.in/react/how_to_add_redux_to_a_react_app</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
-<url><loc>https://www.codeknight.in/react/lazy_loading_in_react</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
-<url><loc>https://www.codeknight.in/react/next_js_crash_course</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
-<url><loc>https://www.codeknight.in/react/react_js_context_store</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
-<url><loc>https://www.codeknight.in/react/using-tailwind-css-with-react</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:10.935Z</lastmod></url>
+<url><loc>https://www.codeknight.in</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/nodejs/introduction_to_prisma</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/react</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/react/how_to_add_redux_to_a_react_app</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/react/lazy_loading_in_react</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/react/next_js_crash_course</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/react/react_js_context_store</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
+<url><loc>https://www.codeknight.in/react/using-tailwind-css-with-react</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2022-05-26T05:04:25.546Z</lastmod></url>
 </urlset>

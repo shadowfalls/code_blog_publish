@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://www.codeknight.in</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/about</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/nodejs/introduction_to_prisma</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/nodejs/introduction_to_redwood_js_a_fullstack_jamstack_framework</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/privacy</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/react</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/react/how_to_add_redux_to_a_react_app</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/react/lazy_loading_in_react</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/react/next_js_crash_course</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/react/react_js_context_store</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.codeknight.in/react/using-tailwind-css-with-react</loc><lastmod>2022-12-22T15:31:23.802Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/about</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/nodejs/introduction_to_prisma</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/nodejs/introduction_to_redwood_js_a_fullstack_jamstack_framework</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/privacy</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/react</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/react/how_to_add_redux_to_a_react_app</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/react/lazy_loading_in_react</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/react/next_js_crash_course</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/react/react_js_context_store</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.codeknight.in/react/using-tailwind-css-with-react</loc><lastmod>2023-04-09T09:48:06.608Z</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
